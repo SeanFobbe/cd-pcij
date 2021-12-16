@@ -1,0 +1,14 @@
+stage,doctype,detail
+SE,ORD,Settlement
+IN,ORD,Request for Intervention
+AJ,ORD,Ad Hoc Judges
+EV,ORD,Evidence
+EX,ORD,Expert Witnesses
+JO,ORD,Joinder of Proceedings
+IM,ORD,Interim Measures
+TL,ORD,Time Limit
+DH,ORD,Date of Hearing
+PR,ORD,Prorogration
+DI,ORD,Discontinuance
+PO,"ORD, JUD",Preliminary Objections
+ME,JUD,Merits

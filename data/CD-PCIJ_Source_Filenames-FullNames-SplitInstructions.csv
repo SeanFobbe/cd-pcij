@@ -1,0 +1,265 @@
+oldname,split,newname,casename
+02_Wimbledon_Requete.pdf,odd-english,PCIJ_A_01_Wimbledon_GBR-FRA-ITA-JPN_DEU_1923-01-16_APP_01_NA_NA_BI.pdf,S.S. Wimbledon
+02_Wimbledon_Requete_Intervetion.pdf,even-english,PCIJ_A_01_Wimbledon_GBR-FRA-ITA-JPN_DEU_1923-05-22_APP_01_NA_NA_BI.pdf,S.S. Wimbledon
+01_Wimbledon_Arret_06_1923.pdf,even-english,PCIJ_A_01_Wimbledon_GBR-FRA-ITA-JPN_DEU_1923-06-28_JUD_01_IN_00_BI.pdf,S.S. Wimbledon
+03_Wimbledon_Arret_08_1923.pdf,even-english,PCIJ_A_01_Wimbledon_GBR-FRA-ITA-JPN_DEU_1923-08-17_JUD_01_ME_00_BI.pdf,S.S. Wimbledon
+04_Wimbledon_Opinion_Shucking_08_1923.pdf,even-english,PCIJ_A_01_Wimbledon_GBR-FRA-ITA-JPN_DEU_1923-08-17_JUD_01_ME_01_BI.pdf,S.S. Wimbledon
+05_Wimbledon_Opinion_Anzilotti_et_Huber_08_1923.pdf,even-english,PCIJ_A_01_Wimbledon_GBR-FRA-ITA-JPN_DEU_1923-08-17_JUD_01_ME_02_BI.pdf,S.S. Wimbledon
+06_Mavrommatis_en_Palestine_Arret.pdf,odd-english,PCIJ_A_02_MavrommatisPalestine_GRC_GBR_1924-08-30_JUD_01_PO_00_BI.pdf,Mavrommatis Palestine Concessions
+07_Mavrommatis_en_Palestine_Opinion_Finlay.pdf,even-english,PCIJ_A_02_MavrommatisPalestine_GRC_GBR_1924-08-30_JUD_01_PO_01_BI.pdf,Mavrommatis Palestine Concessions
+08_Mavrommatis_en_Palestine_Opinion_Moore.pdf,even-english,PCIJ_A_02_MavrommatisPalestine_GRC_GBR_1924-08-30_JUD_01_PO_02_BI.pdf,Mavrommatis Palestine Concessions
+09_Mavrommatis_en_Palestine_Opinion_Bustamante.pdf,even-english,PCIJ_A_02_MavrommatisPalestine_GRC_GBR_1924-08-30_JUD_01_PO_03_BI.pdf,Mavrommatis Palestine Concessions
+10_Mavrommatis_en_Palestine_Opinion_Oda.pdf,even-english,PCIJ_A_02_MavrommatisPalestine_GRC_GBR_1924-08-30_JUD_01_PO_04_BI.pdf,Mavrommatis Palestine Concessions
+11_Mavrommatis_en_Palestine_Opinion_Pessoa.pdf,even-english,PCIJ_A_02_MavrommatisPalestine_GRC_GBR_1924-08-30_JUD_01_PO_05_BI.pdf,Mavrommatis Palestine Concessions
+12_Traite_de_Neuilly_Article_179_Arret.pdf,odd-english,PCIJ_A_03_Neuilly_BGR_GRC_1924-09-12_JUD_01_ME_00_BI.pdf,Treaty of Neuilly‚ Article 179‚ Annex‚ Paragraph 4 (Interpretation)
+13_Traite_de_Neuilly_Article_179_Annexe.pdf,nosplit,PCIJ_A_03_Neuilly_BGR_GRC_1924-09-12_ANX_01_NA_NA_EN.pdf,Treaty of Neuilly‚ Article 179‚ Annex‚ Paragraph 4 (Interpretation)
+14_Interpretation_Arret_No_3.pdf,odd-english,PCIJ_A_04_InterpretationNo3_BGR_GRC_1925-03-26_JUD_01_ME_00_BI.pdf,Interpretation of Judgment No.3
+15_Mavrommatis_a_Jerusalem_Arret_19250326.pdf,odd-english,PCIJ_A_05_MavrommatisJerusalem_GRC_GBR_1925-03-26_JUD_01_ME_00_BI.pdf,Mavrommatis Jerusalem Concessions
+16_Interets_allemands_en_Haute_Silesie_polonaise_Competence_Arret.pdf,odd-english,PCIJ_A_06_GermanInterestsUpperSilesia_DEU_POL_1925-08-25_JUD_01_PO_00_BI.pdf,Certain German Interests in Polish Upper Silesia (Preliminary Objections)
+17_Interets_allemands_en_Haute_Silesie_polonaise_Competence_Observations_Anzilotti.pdf,even-english,PCIJ_A_06_GermanInterestsUpperSilesia_DEU_POL_1925-08-25_JUD_01_PO_01_BI.pdf,Certain German Interests in Polish Upper Silesia (Preliminary Objections)
+18_Interets_allemands_en_Haute_Silesie_polonaise_Competence_Opinion_Rostworowski.pdf,even-english,PCIJ_A_06_GermanInterestsUpperSilesia_DEU_POL_1925-08-25_JUD_01_PO_02_BI.pdf,Certain German Interests in Polish Upper Silesia (Preliminary Objections)
+17_Interets_allemands_en_Haute_Silesie_polonaise_Fond_Arret.pdf,odd-english,PCIJ_A_07_GermanInterestsUpperSilesia_DEU_POL_1926-05-25_JUD_01_ME_00_BI.pdf,Certain German Interests in Polish Upper Silesia (Merits)
+18_Interets_allemands_en_Haute_Silesie_polonaise_Fond_Observations_Finlay.pdf,even-english,PCIJ_A_07_GermanInterestsUpperSilesia_DEU_POL_1926-05-25_JUD_01_ME_01_BI.pdf,Certain German Interests in Polish Upper Silesia (Merits)
+19_Interets_allemands_en_Haute_Silesie_polonaise_Fond_Opinion_Rostworowski.pdf,even-english,PCIJ_A_07_GermanInterestsUpperSilesia_DEU_POL_1926-05-25_JUD_01_ME_02_BI.pdf,Certain German Interests in Polish Upper Silesia (Merits)
+20_Interets_allemands_en_Haute_Silesie_polonaise_Documents_Annexe_1.pdf,customsplit,PCIJ_A_07_GermanInterestsUpperSilesia_DEU_POL_1926-02-05_DEC_01_JO_00_BI.pdf,Certain German Interests in Polish Upper Silesia (Merits)
+21_Interets_allemands_en_Haute_Silesie_polonaise_Documents_Annexe_2.pdf,customsplit,PCIJ_A_07_GermanInterestsUpperSilesia_DEU_POL_1926-03-22_ORD_01_DH_00_BI.pdf,Certain German Interests in Polish Upper Silesia (Merits)
+22_Interets_allemands_en_Haute_Silesie_polonaise_Documents_Annexe_3.pdf,nosplit,PCIJ_A_07_GermanInterestsUpperSilesia_DEU_POL_1926-05-25_ANX_01_NA_NA_FR.pdf,Certain German Interests in Polish Upper Silesia (Merits)
+25_Denonciation_du_traite_sino_belge_Requete_et_Ordonnance_19270108.pdf,customsplit,PCIJ_A_08_SinoBelgianTreaty_BEL_CHN_1926-11-25_APP_01_NA_NA_BI.pdf,"Denunciation of the Treaty of November 2nd, 1865, between China and Belgium"
+25_Denonciation_du_traite_sino_belge_Ordonnance_19270108.pdf,even-english,PCIJ_A_08_SinoBelgianTreaty_BEL_CHN_1927-01-08_ORD_01_IM_00_BI.pdf,"Denunciation of the Treaty of November 2nd, 1865, between China and Belgium"
+26_Denonciation_du_traite_sino_belge_Ordonnance_19270215.pdf,even-english,PCIJ_A_08_SinoBelgianTreaty_BEL_CHN_1927-02-15_ORD_01_IM_00_BI.pdf,"Denunciation of the Treaty of November 2nd, 1865, between China and Belgium"
+27_Denonciation_du_traite_sino_belge_Ordonnance_19270618.pdf,even-english,PCIJ_A_08_SinoBelgianTreaty_BEL_CHN_1927-06-18_ORD_01_TL_00_BI.pdf,"Denunciation of the Treaty of November 2nd, 1865, between China and Belgium"
+28_Usine_de_Chorzow_Competence_Arret.pdf,odd-english,PCIJ_A_09_ChorzowFactory_DEU_POL_1927-07-26_JUD_01_PO_00_BI.pdf,Factory at Chorzów (Claim for Indemnity) (Jurisdiction)
+29_Usine_de_Chorzow_Competence_Opinion_Ehrlich.pdf,even-english,PCIJ_A_09_ChorzowFactory_DEU_POL_1927-07-26_JUD_01_PO_01_BI.pdf,Factory at Chorzów (Claim for Indemnity) (Jurisdiction)
+30_Lotus_Arret.pdf,odd-english,PCIJ_A_10_Lotus_FRA_TUR_1927-09-07_JUD_01_ME_00_BI.pdf,S.S. Lotus
+31_Lotus_Opinion_Loder.pdf,even-english,PCIJ_A_10_Lotus_FRA_TUR_1927-09-07_JUD_01_ME_01_BI.pdf,S.S. Lotus
+32_Lotus_Opinion_Weiss.pdf,even-english,PCIJ_A_10_Lotus_FRA_TUR_1927-09-07_JUD_01_ME_02_BI.pdf,S.S. Lotus
+33_Lotus_Opinion_Finlay.pdf,even-english,PCIJ_A_10_Lotus_FRA_TUR_1927-09-07_JUD_01_ME_03_BI.pdf,S.S. Lotus
+34_Lotus_Opinion_Nyholm.pdf,even-english,PCIJ_A_10_Lotus_FRA_TUR_1927-09-07_JUD_01_ME_04_BI.pdf,S.S. Lotus
+35_Lotus_Opinion_Moore.pdf,even-english,PCIJ_A_10_Lotus_FRA_TUR_1927-09-07_JUD_01_ME_05_BI.pdf,S.S. Lotus
+36_Lotus_Opinion_Altamira.pdf,even-english,PCIJ_A_10_Lotus_FRA_TUR_1927-09-07_JUD_01_ME_06_BI.pdf,S.S. Lotus
+37_Lotus_Annexe.pdf,even-english,PCIJ_A_10_Lotus_FRA_TUR_1927-09-07_ANX_01_NA_NA_BI.pdf,S.S. Lotus
+38_Readaptation_des_concessions_Mavrommatis_a_Jerusalem_Competence_Arret.pdf,odd-english,PCIJ_A_11_MavrommatisJerusalem-Readaptation_GRC_GBR_1927-10-10_JUD_01_PO_00_BI.pdf,Readaptation of the Mavrommatis Jerusalem Concessions (Jurisdiction)
+39_Readaptation_des_concessions_Mavrommatis_a_Jerusalem_Competence_Opinion_Nyholm.pdf,even-english,PCIJ_A_11_MavrommatisJerusalem-Readaptation_GRC_GBR_1927-10-10_JUD_01_PO_01_BI.pdf,Readaptation of the Mavrommatis Jerusalem Concessions (Jurisdiction)
+40_Readaptation_des_concessions_Mavrommatis_a_Jerusalem_Competence_Opinion_Altamira.pdf,even-english,PCIJ_A_11_MavrommatisJerusalem-Readaptation_GRC_GBR_1927-10-10_JUD_01_PO_02_BI.pdf,Readaptation of the Mavrommatis Jerusalem Concessions (Jurisdiction)
+41_Readaptation_des_concessions_Mavrommatis_a_Jerusalem_Competence_Opinion_Caloyanni.pdf,even-english,PCIJ_A_11_MavrommatisJerusalem-Readaptation_GRC_GBR_1927-10-10_JUD_01_PO_03_BI.pdf,Readaptation of the Mavrommatis Jerusalem Concessions (Jurisdiction)
+42_Usine_de_Chorzow_Indemnites_Ordonnance_19271121.pdf,odd-english,PCIJ_A_12_ChorzowFactory-Indemnities_DEU_POL_1927-11-21_ORD_01_IM_00_BI.pdf,Factory at Chorzów (Indemnities)
+42_Usine_de_Chorzow_Indemnites_Ordonnance_19271121-2.pdf,odd-english,PCIJ_A_12_ChorzowFactory-Indemnities_DEU_POL_1927-10-14_APP_01_NA_NA_BI.pdf,Factory at Chorzów (Indemnities)
+43_Interpretation_des_Arrets_No_7_et_8_Usine_de_Chorzow_Arret.pdf,odd-english,PCIJ_A_13_ChorzowFactory-Interpretation_DEU_POL_1927-12-16_JUD_01_ME_00_BI.pdf,Interpretation of Judgments Nos. 7 and 8 (The Chorzów Factory)
+44_Interpretation_des_Arrets_No_7_et_8_Usine_de_Chorzow_Opinion_Anzilotti.pdf,even-english,PCIJ_A_13_ChorzowFactory-Interpretation_DEU_POL_1927-12-16_JUD_01_ME_01_BI.pdf,Interpretation of Judgments Nos. 7 and 8 (The Chorzów Factory)
+45_Denonciation_du_traite_sino_belge_Ordonnance_19280221.pdf,odd-english,PCIJ_A_14_SinoBelgianTreaty_BEL_CHN_1928-02-21_ORD_01_TL_00_BI.pdf,"Denunciation of the Treaty of November 2nd, 1865, between China and Belgium"
+46_Droits_de_minorites_en_Haute_Silesie_Ecoles_minoritaires_Arret.pdf,odd-english,PCIJ_A_15_MinoritySchoolsUpperSilesia_DEU_POL_1928-04-26_JUD_01_ME_00_BI.pdf,Rights of Minorities in Upper Silesia (Minority Schools)
+47_Droits_de_minorites_en_Haute_Silesie_Ecoles_minoritaires_Opinion_Huber.pdf,even-english,PCIJ_A_15_MinoritySchoolsUpperSilesia_DEU_POL_1928-04-26_JUD_01_ME_01_BI.pdf,Rights of Minorities in Upper Silesia (Minority Schools)
+48_Droits_de_minorites_en_Haute_Silesie_Ecoles_minoritaires_Opinion_Nyholm.pdf,even-english,PCIJ_A_15_MinoritySchoolsUpperSilesia_DEU_POL_1928-04-26_JUD_01_ME_02_BI.pdf,Rights of Minorities in Upper Silesia (Minority Schools)
+49_Droits_de_minorites_en_Haute_Silesie_Ecoles_minoritaires_Opinion_Negulesco.pdf,even-english,PCIJ_A_15_MinoritySchoolsUpperSilesia_DEU_POL_1928-04-26_JUD_01_ME_03_BI.pdf,Rights of Minorities in Upper Silesia (Minority Schools)
+50_Droits_de_minorites_en_Haute_Silesie_Ecoles_minoritaires_Opinion_Schucking.pdf,even-english,PCIJ_A_15_MinoritySchoolsUpperSilesia_DEU_POL_1928-04-26_JUD_01_ME_04_BI.pdf,Rights of Minorities in Upper Silesia (Minority Schools)
+52_Droits_de_minorites_en_Haute_Silesie_Ecoles_minoritaires_Annexe_1.pdf,even-english,PCIJ_A_15_MinoritySchoolsUpperSilesia_DEU_POL_1928-04-26_ANX_01_NA_NA_BI.pdf,Rights of Minorities in Upper Silesia (Minority Schools)
+51_Droits_de_minorites_en_Haute_Silesie_Ecoles_minoritaires_Annexe_2.pdf,even-english,PCIJ_A_15_MinoritySchoolsUpperSilesia_DEU_POL_1928-04-26_ANX_02_NA_NA_BI.pdf,Rights of Minorities in Upper Silesia (Minority Schools)
+53_Denonciation_du_traite_sino-belge_Ordonnance_19280813.pdf,odd-english,PCIJ_A_16_SinoBelgianTreaty_BEL_CHN_1928-08-13_ORD_01_TL_00_BI.pdf,"Denunciation of the Treaty of November 2nd, 1865, between China and Belgium"
+54_Usine_de_Chorzow_Fond_Arret.pdf,odd-english,PCIJ_A_17_ChorzowFactory-Indemnities_DEU_POL_1928-09-13_JUD_01_ME_00_BI.pdf,Factory at Chorzów (Claim for Indemnity) (Merits)
+54_Usine_de_Chorzow_Fond_Arret_1.pdf,even-english,PCIJ_A_17_ChorzowFactory-Indemnities_DEU_POL_1928-09-13_JUD_01_ME_01_BI.pdf,Factory at Chorzów (Claim for Indemnity) (Merits)
+54_Usine_de_Chorzow_Fond_Arret_2.pdf,even-english,PCIJ_A_17_ChorzowFactory-Indemnities_DEU_POL_1928-09-13_JUD_01_ME_02_BI.pdf,Factory at Chorzów (Claim for Indemnity) (Merits)
+55_Usine_de_Chorzow_Fond_Opinion_Ehrlich.pdf,even-english,PCIJ_A_17_ChorzowFactory-Indemnities_DEU_POL_1928-09-13_JUD_01_ME_03_BI.pdf,Factory at Chorzów (Claim for Indemnity) (Merits)
+56_Usine_de_Chorzow_Fond_Observations_Nyholm.pdf,even-english,PCIJ_A_17_ChorzowFactory-Indemnities_DEU_POL_1928-09-13_JUD_01_ME_04_BI.pdf,Factory at Chorzów (Claim for Indemnity) (Merits)
+57_Usine_de_Chorzow_Fond_Ordonnance_19280913.pdf,even-english,PCIJ_A_17_ChorzowFactory-Indemnities_DEU_POL_1928-09-13_ORD_01_EX_00_BI.pdf,Factory at Chorzów (Claim for Indemnity) (Merits)
+58_Usine_de_Chorzow_Fond_Annexe.pdf,even-english,PCIJ_A_17_ChorzowFactory-Indemnities_DEU_POL_1928-09-13_ANX_01_NA_NA_BI.pdf,Factory at Chorzów (Claim for Indemnity) (Merits)
+59_Denonciation_du_traite_sino-belge_Ordonnance_19290525.pdf,odd-english,PCIJ_A_18_SinoBelgianTreaty_BEL_CHN_1929-05-25_ORD_01_DI_00_BI.pdf,"Denunciation of the Treaty of November 2nd, 1865, between China and Belgium"
+60_Usine_de_Chorzow_Indemnites_Ordonnance_19290525.pdf,even-english,PCIJ_A_19_ChorzowFactory-Indemnities_DEU_POL_1929-05-25_ORD_01_EX_00_BI.pdf,Factory at Chorzów (Indemnities)
+61_Usine_de_Chorzow_Indemnites_Annexe.pdf,even-english,PCIJ_A_19_ChorzowFactory-Indemnities_DEU_POL_1928-12-15_ORD_01_DI_00_BI.pdf,Factory at Chorzów (Indemnities)
+62_Emprunts_Serbes_Arret.pdf,odd-english,PCIJ_A_20_SerbianLoans_FRA_YUG_1929-07-12_JUD_01_ME_00_BI.pdf,Payment of Various Serbian Loans Issued in France
+62_Emprunts_Serbes_Arret_1.pdf,even-english,PCIJ_A_20_SerbianLoans_FRA_YUG_1929-07-12_JUD_01_ME_01_BI.pdf,Payment of Various Serbian Loans Issued in France
+62_Emprunts_Serbes_Arret_2.pdf,even-english,PCIJ_A_20_SerbianLoans_FRA_YUG_1929-07-12_JUD_01_ME_02_BI.pdf,Payment of Various Serbian Loans Issued in France
+62_Emprunts_Serbes_Arret_3.pdf,even-english,PCIJ_A_20_SerbianLoans_FRA_YUG_1929-07-12_JUD_01_ME_03_BI.pdf,Payment of Various Serbian Loans Issued in France
+63_Emprunts_Serbes_Annexe.pdf,even-english,PCIJ_A_20_SerbianLoans_FRA_YUG_1929-07-12_ANX_01_NA_NA_BI.pdf,Payment of Various Serbian Loans Issued in France
+64_Emprunts_Bresiliens_Arret.pdf,even-english,PCIJ_A_21_BrazilianLoans_FRA_BRA_1929-07-12_JUD_01_ME_00_BI.pdf,Payment in Gold of the Brazilian Federal Loans Issued in France
+65_Emprunts_Bresiliens_Opinion_Bustamante.pdf,even-english,PCIJ_A_21_BrazilianLoans_FRA_BRA_1929-07-12_JUD_01_ME_01_BI.pdf,Payment in Gold of the Brazilian Federal Loans Issued in France
+66_Emprunts_Bresiliens_Opinion_Pessoa.pdf,even-english,PCIJ_A_21_BrazilianLoans_FRA_BRA_1929-07-12_JUD_01_ME_02_BI.pdf,Payment in Gold of the Brazilian Federal Loans Issued in France
+67_Emprunts_Bresiliens_Annexe.pdf,even-english,PCIJ_A_21_BrazilianLoans_FRA_BRA_1929-07-12_ANX_01_NA_NA_BI.pdf,Payment in Gold of the Brazilian Federal Loans Issued in France
+68_Zones_franches_Haute_Savoie_et_Pays_de_Gex_Ordonnance_19290819.pdf,odd-english,PCIJ_A_22_FreeZonesUpperSavoyGex_FRA_CHE_1929-08-19_ORD_01_EV-SE_00_BI.pdf,Free Zones of Upper Savoy and the District of Gex
+69_Zones_franches_Haute_Savoie_et_Pays_de_Gex_Opinion_Nyholm.pdf,even-english,PCIJ_A_22_FreeZonesUpperSavoyGex_FRA_CHE_1929-08-19_ORD_01_EV-SE_01_BI.pdf,Free Zones of Upper Savoy and the District of Gex
+70_Zones_franches_Haute_Savoie_et_Pays_de_Gex_Opinion_Negulesco.pdf,even-english,PCIJ_A_22_FreeZonesUpperSavoyGex_FRA_CHE_1929-08-19_ORD_01_EV-SE_02_BI.pdf,Free Zones of Upper Savoy and the District of Gex
+72_Zones_franches_Haute_Savoie_et_Pays_de_Gex_Opinion_Dreyfus.pdf,even-english,PCIJ_A_22_FreeZonesUpperSavoyGex_FRA_CHE_1929-08-19_ORD_01_EV-SE_03_BI.pdf,Free Zones of Upper Savoy and the District of Gex
+73_Zones_franches_Haute_Savoie_et_Pays_de_Gex_Opinion_Pessoa.pdf,even-english,PCIJ_A_22_FreeZonesUpperSavoyGex_FRA_CHE_1929-08-19_ORD_01_EV-SE_04_BI.pdf,Free Zones of Upper Savoy and the District of Gex
+71_Zones_franches_Haute_Savoie_et_Pays_de_Gex_Observations_Huber.pdf,even-english,PCIJ_A_22_FreeZonesUpperSavoyGex_FRA_CHE_1929-08-19_ORD_01_EV-SE_05_BI.pdf,Free Zones of Upper Savoy and the District of Gex
+74_Commission_internationale_de_l_Oder_Arret.pdf,odd-english,PCIJ_A_23_OderCommission_GBR-CSK-DNK-FRA-DEU_POL_1929-09-10_JUD_01_ME_00_BI.pdf,Territorial Jurisdiction of the International Commission of the River Oder
+75_Commission_internationale_de_l_Oder_Annexe_2_Ordonnance_19290815.pdf,even-english,PCIJ_A_23_OderCommission_GBR-CSK-DNK-FRA-DEU_POL_1929-08-15_ORD_01_EV_00_BI.pdf,Territorial Jurisdiction of the International Commission of the River Oder
+76_Commission_internationale_de_l_Oder_Annexe_3.pdf,even-english,PCIJ_A_23_OderCommission_GBR-CSK-DNK-FRA-DEU_POL_1929-08-20_ORD_01_EV_00_BI.pdf,Territorial Jurisdiction of the International Commission of the River Oder
+77_Commission_internationale_de_l_Oder_Annexe_4.pdf,even-english,PCIJ_A_23_OderCommission_GBR-CSK-DNK-FRA-DEU_POL_1929-08-15_ORD_02_TL_00_BI.pdf,Territorial Jurisdiction of the International Commission of the River Oder
+78_Zones_franches_Haute_Savoie_et_Pays_de_Gex_2e_phase_Ordonnance_19301206.pdf,odd-english,PCIJ_A_24_FreeZonesUpperSavoyGex-SecondPhase_FRA_CHE_1930-12-06_ORD_01_SE_00_BI.pdf,Free Zones of Upper Savoy and the District of Gex (Second Phase)
+79_Zones_franches_Haute_Savoie_et_Pays_de_Gex_2e_phase_Opinion_commune.pdf,even-english,PCIJ_A_24_FreeZonesUpperSavoyGex-SecondPhase_FRA_CHE_1930-12-06_ORD_01_SE_01_BI.pdf,Free Zones of Upper Savoy and the District of Gex (Second Phase)
+80_Zones_franches_Haute_Savoie_et_Pays_de_Gex_2e_phase_Observations_Kellogg.pdf,even-english,PCIJ_A_24_FreeZonesUpperSavoyGex-SecondPhase_FRA_CHE_1930-12-06_ORD_01_SE_02_BI.pdf,Free Zones of Upper Savoy and the District of Gex (Second Phase)
+01_Ecoles_minoritaires_Avis_consultatif.pdf,odd-english,PCIJ_AB_40_GermanMinoritySchools_DEU_POL_1931-05-15_ADV_01_NA_00_BI.pdf,Access to German Minority Schools in Upper Silesia
+02_Ecoles_minoritaires_Opinion_Rostworowski.pdf,even-english,PCIJ_AB_40_GermanMinoritySchools_DEU_POL_1931-05-15_ADV_01_NA_01_BI.pdf,Access to German Minority Schools in Upper Silesia
+03_Ecoles_minoritaires_Annexe_1.pdf,even-english,PCIJ_AB_40_GermanMinoritySchools_DEU_POL_1931-05-15_ANX_01_NA_NA_BI.pdf,Access to German Minority Schools in Upper Silesia
+04_Ecoles_minoritaries_Annexe_2.pdf,even-english,PCIJ_AB_40_GermanMinoritySchools_DEU_POL_1931-05-15_ANX_02_NA_NA_BI.pdf,Access to German Minority Schools in Upper Silesia
+01_Regime_douanier_Avis_consultatif.pdf,odd-english,PCIJ_AB_41_CustomsRegime_LNC_NA_1931-09-05_ADV_01_NA_00_BI.pdf,"Customs Regime between Germany and Austria (Protocol of March 19th, 1931)"
+02_Regime_douanier_Opinion_Anzilotti.pdf,even-english,PCIJ_AB_41_CustomsRegime_LNC_NA_1931-09-05_ADV_01_NA_01_BI.pdf,"Customs Regime between Germany and Austria (Protocol of March 19th, 1931)"
+03_Regime_douanier_Opinion_Adatci.pdf,even-english,PCIJ_AB_41_CustomsRegime_LNC_NA_1931-09-05_ADV_01_NA_02_BI.pdf,"Customs Regime between Germany and Austria (Protocol of March 19th, 1931)"
+06_Regime_douanier_Annexe_2.pdf,nosplit,PCIJ_AB_41_CustomsRegime_LNC_NA_1931-09-05_ANX_01_NA_NA_DE.pdf,"Customs Regime between Germany and Austria (Protocol of March 19th, 1931)"
+07_Regime_douanier_Annexe_2a.pdf,even-english,PCIJ_AB_41_CustomsRegime_LNC_NA_1931-09-05_ANX_02_NA_NA_BI.pdf,"Customs Regime between Germany and Austria (Protocol of March 19th, 1931)"
+08_Regime_douanier_Annexe_3.pdf,even-english,PCIJ_AB_41_CustomsRegime_LNC_NA_1931-09-05_ANX_03_NA_NA_BI.pdf,"Customs Regime between Germany and Austria (Protocol of March 19th, 1931)"
+04_Regime_douanier_Ordonnance_19310720.pdf,even-english,PCIJ_AB_41_CustomsRegime_LNC_NA_1931-07-20_ORD_01_AJ_00_BI.pdf,"Customs Regime between Germany and Austria (Protocol of March 19th, 1931)"
+05_Regime_douanier_Ordonnance_19310720_Opinion_commune.pdf,even-english,PCIJ_AB_41_CustomsRegime_LNC_NA_1931-07-20_ORD_01_AJ_01_BI.pdf,"Customs Regime between Germany and Austria (Protocol of March 19th, 1931)"
+Trafic_ferroviaire_Avis_consultatif.pdf,odd-english,PCIJ_AB_42_RailwayTraffic_LNC_NA_1931-10-15_ADV_01_NA_00_BI.pdf,Railway Traffic between Lithuania and Poland (Railway Sector Landwarów-Kaisiadorys)
+01_Navires_de_guerre_Avis_consultatif.pdf,odd-english,PCIJ_AB_43_PolishWarVessels_LNC_NA_1931-12-11_ADV_01_NA_00_BI.pdf,Access to‚ or Anchorage in‚ the port of Danzig‚ of Polish War Vessels
+02_Navires_de_guerre_Opinion_Rostworowski.pdf,even-english,PCIJ_AB_43_PolishWarVessels_LNC_NA_1931-12-11_ADV_01_NA_01_BI.pdf,Access to‚ or Anchorage in‚ the port of Danzig‚ of Polish War Vessels
+03_Navires_de_guerre_Annexe.pdf,even-english,PCIJ_AB_43_PolishWarVessels_LNC_NA_1931-12-11_ANX_01_NA_NA_BI.pdf,Access to‚ or Anchorage in‚ the port of Danzig‚ of Polish War Vessels
+01_Traitement_nationaux_polonais_Avis_consultatif.pdf,odd-english,PCIJ_AB_44_TreatmentPolishNationals_LNC_NA_1932-02-04_ADV_01_NA_00_BI.pdf,Treatment of Polish Nationals and Other Persons of Polish Origin or Speech in the Danzig Territory
+02_Traitement_nationaux_polonais_Opinion_commune.pdf,even-english,PCIJ_AB_44_TreatmentPolishNationals_LNC_NA_1932-02-04_ADV_01_NA_01_BI.pdf,Treatment of Polish Nationals and Other Persons of Polish Origin or Speech in the Danzig Territory
+03_Traitement_nationaux_polonais_Opinion_Hurst.pdf,even-english,PCIJ_AB_44_TreatmentPolishNationals_LNC_NA_1932-02-04_ADV_01_NA_02_BI.pdf,Treatment of Polish Nationals and Other Persons of Polish Origin or Speech in the Danzig Territory
+04_Traitement_nationaux_polonais_Annexe.pdf,even-english,PCIJ_AB_44_TreatmentPolishNationals_LNC_NA_1932-02-04_ANX_01_NA_NA_BI.pdf,Treatment of Polish Nationals and Other Persons of Polish Origin or Speech in the Danzig Territory
+01_Accord_Greco-Bulgare_Avis_consultatif.pdf,odd-english,PCIJ_AB_45_GrecoBulgarianAgreement_LNC_NA_1932-03-08_ADV_01_NA_00_BI.pdf,"Interpretation of the Greco-Bulgarian Agreement of December 9th, 1927 (Caphandaris-Molloff Agreement)"
+02_Accord_Greco-Bulgare_Annexe.pdf,even-english,PCIJ_AB_45_GrecoBulgarianAgreement_LNC_NA_1932-03-08_ANX_01_NA_NA_BI.pdf,"Interpretation of the Greco-Bulgarian Agreement of December 9th, 1927 (Caphandaris-Molloff Agreement)"
+01_Zones_franches_Arret.pdf,odd-english,PCIJ_AB_46_FreeZonesUpperSavoyGex_FRA_CHE_1932-06-07_JUD_01_ME_00_BI.pdf,Free Zones of Upper Savoy and the District of Gex
+02_Zones_franches_Opinion_hurst.pdf,even-english,PCIJ_AB_46_FreeZonesUpperSavoyGex_FRA_CHE_1932-06-07_JUD_01_ME_01_BI.pdf,Free Zones of Upper Savoy and the District of Gex
+02_Zones_franches_Opinion_Negulesco.pdf,even-english,PCIJ_AB_46_FreeZonesUpperSavoyGex_FRA_CHE_1932-06-07_JUD_01_ME_02_BI.pdf,Free Zones of Upper Savoy and the District of Gex
+03_Zones_franches_Opinion_Dreyfus.pdf,even-english,PCIJ_AB_46_FreeZonesUpperSavoyGex_FRA_CHE_1932-06-07_JUD_01_ME_03_BI.pdf,Free Zones of Upper Savoy and the District of Gex
+04_Zones_franches_Annexe1.pdf,even-english,PCIJ_AB_46_FreeZonesUpperSavoyGex_FRA_CHE_1931-08-06_ORD_01_TL-DH_00_BI.pdf,Free Zones of Upper Savoy and the District of Gex
+05_Zones_franches_Annexe_2.pdf,even-english,PCIJ_AB_46_FreeZonesUpperSavoyGex_FRA_CHE_1932-06-07_ANX_01_NA_NA_BI.pdf,Free Zones of Upper Savoy and the District of Gex
+01_Memel_Arret.pdf,even-english,PCIJ_AB_47_InterpretationMemelStatute_GBR-FRA-ITA-JPN_LTU_1932-06-24_JUD_01_PO_00_BI.pdf,Interpretation of the Statute of the Memel Territory (Preliminary Objection)
+02_Memel_Opinion_Rolin-Jaequemyns.pdf,even-english,PCIJ_AB_47_InterpretationMemelStatute_GBR-FRA-ITA-JPN_LTU_1932-06-24_JUD_01_PO_01_BI.pdf,Interpretation of the Statute of the Memel Territory (Preliminary Objection)
+03_Memel_Ordonnance_19320624.pdf,even-english,PCIJ_AB_47_InterpretationMemelStatute_GBR-FRA-ITA-JPN_LTU_1932-06-24_ORD_01_TL_00_BI.pdf,Interpretation of the Statute of the Memel Territory (Preliminary Objection)
+01_Groenland_ordonnance_19320802.pdf,odd-english,PCIJ_AB_48_EasternGreenland_DNK_NOR_1932-08-02_ORD_01_JO-TL_00_BI.pdf,Legal Status of the South-Eastern Territory of Greenland
+02_Groenland_ordonnance_19320803.pdf,odd-english,PCIJ_AB_48_EasternGreenland_DNK_NOR_1932-08-03_ORD_01_IM_00_BI.pdf,Legal Status of the South-Eastern Territory of Greenland
+01_Memel_Arret.pdf--1,odd-english,PCIJ_AB_49_InterpretationMemelStatute_GBR-FRA-ITA-JPN_LTU_1932-08-11_JUD_01_ME_00_BI.pdf,Interpretation of the Statute of the Memel Territory (Merits)
+02_Memel_Opinion_commune.pdf,even-english,PCIJ_AB_49_InterpretationMemelStatute_GBR-FRA-ITA-JPN_LTU_1932-08-11_JUD_01_ME_01_BI.pdf,Interpretation of the Statute of the Memel Territory (Merits)
+03_Memel_Opinion_Anzilotti.pdf,even-english,PCIJ_AB_49_InterpretationMemelStatute_GBR-FRA-ITA-JPN_LTU_1932-08-11_JUD_01_ME_02_BI.pdf,Interpretation of the Statute of the Memel Territory (Merits)
+04_Memel_Annexe.pdf,even-english,PCIJ_AB_49_InterpretationMemelStatute_GBR-FRA-ITA-JPN_LTU_1932-08-11_ANX_01_NA_NA_BI.pdf,Interpretation of the Statute of the Memel Territory (Merits)
+01_Travail_de_nuit_Avis_consultatif.pdf,odd-english,PCIJ_AB_50_WomenNightWork_LNC_NA_1932-11-15_ADV_01_NA_00_BI.pdf,Interpretation of the Convention of 1919 concerning Employment of Women during the Night
+02_Travail_de_nuit_Opinion_Anzilotti.pdf,even-english,PCIJ_AB_50_WomenNightWork_LNC_NA_1932-11-15_ADV_01_NA_01_BI.pdf,Interpretation of the Convention of 1919 concerning Employment of Women during the Night
+03_Travail_de_nuit_Annexe.pdf,even-english,PCIJ_AB_50_WomenNightWork_LNC_NA_1932-11-15_ANX_01_NA_NA_BI.pdf,Interpretation of the Convention of 1919 concerning Employment of Women during the Night
+Castellorizo_Ordonnance_19330126.pdf,odd-english,PCIJ_AB_51_Castellorizo_TUR_ITA_1933-01-26_ORD_01_DI_00_BI.pdf,Delimitation of the Territorial Waters between the Island of Castellorizo and the Coasts of Anatolia
+Prince_von_Pless_Ordonnance_19330204.pdf,odd-english,PCIJ_AB_52_PrinceVonPless_DEU_POL_1933-02-04_ORD_01_PO_00_BI.pdf,Administration of the Prince von Pless (Preliminary Objections)
+01_Groenland_Oriental_Arret.pdf,odd-english,PCIJ_AB_53_EasternGreenland_DNK_NOR_1933-04-05_JUD_01_ME_00_BI.pdf,Legal Status of Eastern Greenland
+02_Groenland_Oriental_Opinion_Anzilotti.pdf,even-english,PCIJ_AB_53_EasternGreenland_DNK_NOR_1933-04-05_JUD_01_ME_01_BI.pdf,Legal Status of Eastern Greenland
+03_Groenland_Oriental_Observations_communes.pdf,even-english,PCIJ_AB_53_EasternGreenland_DNK_NOR_1933-04-05_JUD_01_ME_02_BI.pdf,Legal Status of Eastern Greenland
+04_Groenland_Oriental_Opinion_Vogt.pdf,even-english,PCIJ_AB_53_EasternGreenland_DNK_NOR_1933-04-05_JUD_01_ME_03_BI.pdf,Legal Status of Eastern Greenland
+05_Groenland_Oriental_Annexe.pdf,customsplit,PCIJ_AB_53_EasternGreenland_DNK_NOR_1933-04-05_ANX_01_NA_NA_BI.pdf,Legal Status of Eastern Greenland
+Prince_von_Pless_ordonnance_19330511.pdf,odd-english,PCIJ_AB_54_PrinceVonPless_DEU_POL_1933-05-11_ORD_01_IM_00_BI.pdf,Administration of the Prince von Pless (Interim Measures of Protection)
+Sud-Est_Groenland_Ordonnance_19330511.pdf,odd-english,PCIJ_AB_55_EasternGreenland_DNK_NOR_1933-05-11_ORD_01_DI_00_BI.pdf,Legal Status of the South-Eastern Territory of Greenland
+Tribunal_Arbitral_Mixte_Ordonnance_19330512.pdf,odd-english,PCIJ_AB_56_HungaroCzechoslovakMixedTribunal_CSK_HUN_1933-05-12_ORD_01_DI_00_BI.pdf,Appeals from Certain Judgments of the Hungaro-Czechoslovak Mixed Arbitral Tribunal
+Prince_von_Pless_Ordonnance_19330704.pdf,odd-english,PCIJ_AB_57_PrinceVonPless_DEU_POL_1933-07-04_ORD_01_PR_00_BI.pdf,Administration of the Prince von Pless (Prorogation)
+01_Reforme_agraire_polonaise_Ordonnance_19330729.pdf,odd-english,PCIJ_AB_58_PolishAgrarianReform_DEU_POL_1933-07-29_ORD_01_IM_00_BI.pdf,Polish Agrarian Reform and the German Minority (Interim Measures of Protection)
+02_Reforme_agraire_polonaise_Ordonnance_19330729_Opinion_Baron.pdf,even-english,PCIJ_AB_58_PolishAgrarianReform_DEU_POL_1933-07-29_ORD_01_IM_01_BI.pdf,Polish Agrarian Reform and the German Minority (Interim Measures of Protection)
+02_Reforme_agraire_polonaise_Ordonnance_19330729_Opinion_Anzilotti.pdf,even-english,PCIJ_AB_58_PolishAgrarianReform_DEU_POL_1933-07-29_ORD_01_IM_02_BI.pdf,Polish Agrarian Reform and the German Minority (Interim Measures of Protection)
+03_Reforme_agraire_polonaise_Ordonnance_19330729_Opinion_commune.pdf,even-english,PCIJ_AB_58_PolishAgrarianReform_DEU_POL_1933-07-29_ORD_01_IM_03_BI.pdf,Polish Agrarian Reform and the German Minority (Interim Measures of Protection)
+04_Reforme_agraire_polonaise_Ordonnance_19330729_Annexe.pdf,even-english,PCIJ_AB_58_PolishAgrarianReform_DEU_POL_1933-07-29_ANX_01_NA_NA_BI.pdf,Polish Agrarian Reform and the German Minority (Interim Measures of Protection)
+Prince_von_Pless_Ordonnance_19331202.pdf,odd-english,PCIJ_AB_59_PrinceVonPless_DEU_POL_1933-12-02_ORD_01_DI_00_BI.pdf,Administration of the Prince von Pless (Discontinuance)
+Reforme_agraire_polonaise_Ordonnance_19331202.pdf,odd-english,PCIJ_AB_60_PolishAgrarianReform_DEU_POL_1933-12-02_ORD_01_DI_00_BI.pdf,Polish Agrarian Reform and the German Minority (Discontinuance)
+01_Pazmani_Arret.pdf,odd-english,PCIJ_AB_61_Pazmany_CSK_HUN_1933-12-15_JUD_01_ME_00_BI.pdf,Appeal from a Judgment of the Hungaro-Czecoslovak Mixed Arbitral Tribunal (The Peter Pázmány University v. The State of Czechoslovakia)
+02_Pazmani_Opinion_Hermann-Otavsky.pdf,even-english,PCIJ_AB_61_Pazmany_CSK_HUN_1933-12-15_JUD_01_ME_01_BI.pdf,Appeal from a Judgment of the Hungaro-Czecoslovak Mixed Arbitral Tribunal (The Peter Pázmány University v. The State of Czechoslovakia)
+03_Pazmani_Annexe.pdf,even-english,PCIJ_AB_61_Pazmany_CSK_HUN_1933-12-15_ANX_01_NA_NA_BI.pdf,Appeal from a Judgment of the Hungaro-Czecoslovak Mixed Arbitral Tribunal (The Peter Pázmány University v. The State of Czechoslovakia)
+01_Affaire_des_phares_Arret.pdf,odd-english,PCIJ_AB_62_Lighthouses_FRA_GRC_1934-03-17_JUD_01_ME_00_BI.pdf,Lighthouses Case between France and Greece
+02_Affaire_des_phares_Opinion_Anzilotti.pdf,even-english,PCIJ_AB_62_Lighthouses_FRA_GRC_1934-03-17_JUD_01_ME_01_BI.pdf,Lighthouses Case between France and Greece
+03_Affaire_des_phares_Opinion_Seferiades.pdf,even-english,PCIJ_AB_62_Lighthouses_FRA_GRC_1934-03-17_JUD_01_ME_02_BI.pdf,Lighthouses Case between France and Greece
+04_Affaire_des_phares_Annexe.pdf,even-english,PCIJ_AB_62_Lighthouses_FRA_GRC_1934-03-17_ANX_01_NA_NA_BI.pdf,Lighthouses Case between France and Greece
+01_Oscar_Chinn_Arret.pdf,odd-english,PCIJ_AB_63_OscarChinn_GBR_BEL_1934-12-12_JUD_01_ME_00_BI.pdf,Oscar Chinn
+02_Oscar_Chinn_Opinion_Altamira.pdf,even-english,PCIJ_AB_63_OscarChinn_GBR_BEL_1934-12-12_JUD_01_ME_01_BI.pdf,Oscar Chinn
+03_Oscar_Chinn_Opinion_Anzilotti.pdf,even-english,PCIJ_AB_63_OscarChinn_GBR_BEL_1934-12-12_JUD_01_ME_02_BI.pdf,Oscar Chinn
+04_Oscar_Chinn_Opinion_Hurst.pdf,even-english,PCIJ_AB_63_OscarChinn_GBR_BEL_1934-12-12_JUD_01_ME_03_BI.pdf,Oscar Chinn
+05_Oscar_Chinn_Opinion_Eysinga.pdf,even-english,PCIJ_AB_63_OscarChinn_GBR_BEL_1934-12-12_JUD_01_ME_04_BI.pdf,Oscar Chinn
+06_Oscar_Chinn_Opinion_Schucking.pdf,even-english,PCIJ_AB_63_OscarChinn_GBR_BEL_1934-12-12_JUD_01_ME_05_BI.pdf,Oscar Chinn
+07_Oscar_Chinn_Annexe.pdf,even-english,PCIJ_AB_63_OscarChinn_GBR_BEL_1934-12-12_ANX_01_NA_NA_BI.pdf,Oscar Chinn
+01_Ecoles_minoritaires_Avis_consultatif.pdf--1,odd-english,PCIJ_AB_64_MinoritySchoolsAlbania_LNC_NA_1935-04-06_ADV_01_NA_00_BI.pdf,Minority Schools in Albania
+02_Ecoles_minoritaires_Opinion_Hurst.pdf,even-english,PCIJ_AB_64_MinoritySchoolsAlbania_LNC_NA_1935-04-06_ADV_01_NA_01_BI.pdf,Minority Schools in Albania
+03_Ecoles_minoritaires_Annexe.pdf,even-english,PCIJ_AB_64_MinoritySchoolsAlbania_LNC_NA_1935-04-06_ANX_01_NA_NA_BI.pdf,Minority Schools in Albania
+01_Decrets-lois_dantzikois_Avis_consultatif.pdf,odd-english,PCIJ_AB_65_DanzigLegislativeDecrees_LNC_NA_1935-12-04_ADV_01_NA_00_BI.pdf,Consistency of Certain Danzig Legislative Decrees with the Constitution of the Free City
+02_Decrets-lois_dantzikois_Opinion_Anzilotti.pdf,even-english,PCIJ_AB_65_DanzigLegislativeDecrees_LNC_NA_1935-12-04_ADV_01_NA_01_BI.pdf,Consistency of Certain Danzig Legislative Decrees with the Constitution of the Free City
+03_Decrets-lois_dantzikois_Declaration_Ros.pdf,even-english,PCIJ_AB_65_DanzigLegislativeDecrees_LNC_NA_1935-12-04_ADV_01_NA_02_BI.pdf,Consistency of Certain Danzig Legislative Decrees with the Constitution of the Free City
+03_Decrets-lois_dantzikois_Opinion_Nagaoka.pdf,even-english,PCIJ_AB_65_DanzigLegislativeDecrees_LNC_NA_1935-12-04_ADV_01_NA_03_BI.pdf,Consistency of Certain Danzig Legislative Decrees with the Constitution of the Free City
+04_Decrets-lois_dantzikois_Ordonnance.pdf,even-english,PCIJ_AB_65_DanzigLegislativeDecrees_LNC_NA_1935-10-31_ORD_01_AJ_00_BI.pdf,Consistency of Certain Danzig Legislative Decrees with the Constitution of the Free City
+04_Decrets-lois_dantzikois_Annexe.pdf,even-english,PCIJ_AB_65_DanzigLegislativeDecrees_LNC_NA_1935-12-04_ANX_01_NA_NA_BI.pdf,Consistency of Certain Danzig Legislative Decrees with the Constitution of the Free City
+Pajzs_Ordonnance_19360523.pdf,odd-english,PCIJ_AB_66_PajzsCsakyEsterhazy_HUN_YUG_1936-05-23_ORD_01_PO_00_BI.pdf,Pajzs‚ Czáky‚ Esterházy (Preliminary Objection)
+Losinger_Ordonnance_19360627.pdf,odd-english,PCIJ_AB_67_Losinger_CHE_YUG_1936-06-27_ORD_01_PO_00_BI.pdf,Losinger & Co Case (Preliminary Objection)
+01_Affaire_Pajzs_Arret.pdf,odd-english,PCIJ_AB_68_PajzsCsakyEsterhazy_HUN_YUG_1936-12-16_JUD_01_ME_00_BI.pdf,Pajzs‚ Czáky‚ Esterházy (Merits)
+02_Affaire_Pajzs_Opinion_Anzilotti.pdf,even-english,PCIJ_AB_68_PajzsCsakyEsterhazy_HUN_YUG_1936-12-16_JUD_01_ME_01_BI.pdf,Pajzs‚ Czáky‚ Esterházy (Merits)
+03_Affaire_Pajzs_Opinion_Nagaoka.pdf,even-english,PCIJ_AB_68_PajzsCsakyEsterhazy_HUN_YUG_1936-12-16_JUD_01_ME_02_BI.pdf,Pajzs‚ Czáky‚ Esterházy (Merits)
+04_Affaire_Pajzs_Opinion_Hudson.pdf,even-english,PCIJ_AB_68_PajzsCsakyEsterhazy_HUN_YUG_1936-12-16_JUD_01_ME_03_BI.pdf,Pajzs‚ Czáky‚ Esterházy (Merits)
+05_Affaire_Pajzs_Opinion_Hammarskjold.pdf,even-english,PCIJ_AB_68_PajzsCsakyEsterhazy_HUN_YUG_1936-12-16_JUD_01_ME_04_BI.pdf,Pajzs‚ Czáky‚ Esterházy (Merits)
+06_Affaire_Pajzs_Opinion_Tomcsanyi.pdf,even-english,PCIJ_AB_68_PajzsCsakyEsterhazy_HUN_YUG_1936-12-16_JUD_01_ME_05_BI.pdf,Pajzs‚ Czáky‚ Esterházy (Merits)
+07_Affaire_Pajzs_Annexe.pdf,even-english,PCIJ_AB_68_PajzsCsakyEsterhazy_HUN_YUG_1936-12-16_ANX_01_NA_NA_BI.pdf,Pajzs‚ Czáky‚ Esterházy (Merits)
+Affaire_Losinger_ordonnance_19361214.pdf,odd-english,PCIJ_AB_69_Losinger_CHE_YUG_1936-12-14_ORD_01_DI_00_BI.pdf,Losinger & Co Case (Discontinuance)
+01_Meuse_Arret.pdf,odd-english,PCIJ_AB_70_Meuse_NLD_BEL_1937-06-28_JUD_01_ME_00_BI.pdf,Diversion of Water from the Meuse
+02_Meuse_Opinion_Hurst.pdf,even-english,PCIJ_AB_70_Meuse_NLD_BEL_1937-06-28_JUD_01_ME_01_BI.pdf,Diversion of Water from the Meuse
+03_Meuse_Opinion_Altamira.pdf,even-english,PCIJ_AB_70_Meuse_NLD_BEL_1937-06-28_JUD_01_ME_02_BI.pdf,Diversion of Water from the Meuse
+04_Meuse_Opinion_Anzilotti.pdf,even-english,PCIJ_AB_70_Meuse_NLD_BEL_1937-06-28_JUD_01_ME_03_BI.pdf,Diversion of Water from the Meuse
+05_Meuse_Opinion_Eysinga.pdf,even-english,PCIJ_AB_70_Meuse_NLD_BEL_1937-06-28_JUD_01_ME_04_BI.pdf,Diversion of Water from the Meuse
+06_Meuse_Opinion_Hudson.pdf,even-english,PCIJ_AB_70_Meuse_NLD_BEL_1937-06-28_JUD_01_ME_05_BI.pdf,Diversion of Water from the Meuse
+07_Meuse_Annexe_I.pdf,nosplit,PCIJ_AB_70_Meuse_NLD_BEL_1937-06-28_ANX_01_NA_NA_FR.pdf,Diversion of Water from the Meuse
+08_Meuse_Annexe_II.pdf,even-english,PCIJ_AB_70_Meuse_NLD_BEL_1937-06-28_ANX_02_NA_NA_BI.pdf,Diversion of Water from the Meuse
+01_Phares_en_Crete_Arret.pdf,odd-english,PCIJ_AB_71_LighthousesCreteSamos_FRA_GRC_1937-10-08_JUD_01_ME_00_BI.pdf,Lighthouses in Crete and Samos
+02_Phares_en_Crete_Opinion_Hurst.pdf,even-english,PCIJ_AB_71_LighthousesCreteSamos_FRA_GRC_1937-10-08_JUD_01_ME_01_BI.pdf,Lighthouses in Crete and Samos
+03_Phares_en_Crete_Opinion_Eysinga.pdf,even-english,PCIJ_AB_71_LighthousesCreteSamos_FRA_GRC_1937-10-08_JUD_01_ME_02_BI.pdf,Lighthouses in Crete and Samos
+04_Phares_en_Crete_Opinion_Hudson.pdf,even-english,PCIJ_AB_71_LighthousesCreteSamos_FRA_GRC_1937-10-08_JUD_01_ME_03_BI.pdf,Lighthouses in Crete and Samos
+05_Phares_en_Crete_Opinion_Seferiades.pdf,even-english,PCIJ_AB_71_LighthousesCreteSamos_FRA_GRC_1937-10-08_JUD_01_ME_04_BI.pdf,Lighthouses in Crete and Samos
+06_Phares_en_Crete_Annexe.pdf,even-english,PCIJ_AB_71_LighthousesCreteSamos_FRA_GRC_1937-10-08_ANX_01_NA_NA_BI.pdf,Lighthouses in Crete and Samos
+01_Borchgrave_exceptions_preliminaires_Arret.pdf,odd-english,PCIJ_AB_72_Borchgrave_BEL_ESP_1937-11-06_JUD_01_PO_00_BI.pdf,Borchgrave (Preliminary Objections)
+02_Borchgrave_exceptions_preliminaires_Ordonnance_19371106.pdf,even-english,PCIJ_AB_72_Borchgrave_BEL_ESP_1937-11-06_ORD_01_TL_00_BI.pdf,Borchgrave (Preliminary Objections)
+03_Borchgrave_exceptions_preliminaires_Annexe.pdf,even-english,PCIJ_AB_72_Borchgrave_BEL_ESP_1937-11-06_ANX_01_NA_NA_BI.pdf,Borchgrave (Preliminary Objections)
+Borchgrave_ordonnance_19380430.pdf,odd-english,PCIJ_AB_73_Borchgrave_BEL_ESP_1938-04-30_ORD_01_DI_00_BI.pdf,Borchgrave (Discontinuance)
+01_Phosphates_du_Maroc_Arret.pdf,odd-english,PCIJ_AB_74_PhosphatesMarocco_ITA_FRA_1938-06-14_JUD_01_PO_00_BI.pdf,Phosphates in Morocco
+02_Phosphates_du_Maroc_Opinion_Eysinga.pdf,even-english,PCIJ_AB_74_PhosphatesMarocco_ITA_FRA_1938-06-14_JUD_01_PO_01_BI.pdf,Phosphates in Morocco
+03_Phosphates_du_Maroc_Opinion_Tien_Hsi.pdf,even-english,PCIJ_AB_74_PhosphatesMarocco_ITA_FRA_1938-06-14_JUD_01_PO_02_BI.pdf,Phosphates in Morocco
+04_Phosphates_du_Maroc_Annexe.pdf,even-english,PCIJ_AB_74_PhosphatesMarocco_ITA_FRA_1938-06-14_ANX_01_NA_NA_BI.pdf,Phosphates in Morocco
+Panevezys-Saldutiskis_exceptions_preliminaires_ordonnance_19380630.pdf,odd-english,PCIJ_AB_75_PanevezysSaldutiskisRailway_EST_LTU_1938-06-30_ORD_01_PO_00_BI.pdf,Panevezys-Saldutiskis Railway (Preliminary Objections)
+01_Panevezys-Saldutiskis_Arret.pdf,odd-english,PCIJ_AB_76_PanevezysSaldutiskisRailway_EST_LTU_1939-02-28_JUD_01_ME_00_BI.pdf,Panevezys-Saldutiskis Railway (Merits)
+02_Panevezys-Saldutiskis_Opinion_commune.pdf,even-english,PCIJ_AB_76_PanevezysSaldutiskisRailway_EST_LTU_1939-02-28_JUD_01_ME_01_BI.pdf,Panevezys-Saldutiskis Railway (Merits)
+03_Panevezys-Saldutiskis_Opinion_Eysinga.pdf,even-english,PCIJ_AB_76_PanevezysSaldutiskisRailway_EST_LTU_1939-02-28_JUD_01_ME_02_BI.pdf,Panevezys-Saldutiskis Railway (Merits)
+04_Panevezys-Saldutiskis_Opinion_Hudson.pdf,even-english,PCIJ_AB_76_PanevezysSaldutiskisRailway_EST_LTU_1939-02-28_JUD_01_ME_03_BI.pdf,Panevezys-Saldutiskis Railway (Merits)
+05_Panevezys-Saldutiskis_Opinion_Erich.pdf,even-english,PCIJ_AB_76_PanevezysSaldutiskisRailway_EST_LTU_1939-02-28_JUD_01_ME_04_BI.pdf,Panevezys-Saldutiskis Railway (Merits)
+06_Panevezys-Saldutiskis_Annexe.pdf,even-english,PCIJ_AB_76_PanevezysSaldutiskisRailway_EST_LTU_1939-02-28_ANX_01_NA_NA_BI.pdf,Panevezys-Saldutiskis Railway (Merits)
+01_Compagnie_d_electricite_de_Sofia_Arret.pdf,odd-english,PCIJ_AB_77_ElectricityCompanySofiaBulgaria_BEL_BGR_1939-04-04_JUD_01_PO_00_BI.pdf,Electricity Company of Sofia and Bulgaria (Preliminary Objections)
+02_Compagnie_d_electricite_de_Sofia_Opinion_Anzilotti.pdf,even-english,PCIJ_AB_77_ElectricityCompanySofiaBulgaria_BEL_BGR_1939-04-04_JUD_01_PO_01_BI.pdf,Electricity Company of Sofia and Bulgaria (Preliminary Objections)
+03_Compagnie_d_electricite_de_Sofia_Opinion_Urrutia.pdf,even-english,PCIJ_AB_77_ElectricityCompanySofiaBulgaria_BEL_BGR_1939-04-04_JUD_01_PO_02_BI.pdf,Electricity Company of Sofia and Bulgaria (Preliminary Objections)
+04_Compagnie_d_electricite_de_Sofia_Opinion_Eysinga.pdf,even-english,PCIJ_AB_77_ElectricityCompanySofiaBulgaria_BEL_BGR_1939-04-04_JUD_01_PO_03_BI.pdf,Electricity Company of Sofia and Bulgaria (Preliminary Objections)
+05_Compagnie_d_electricite_de_Sofia_Opinion_Hudson.pdf,even-english,PCIJ_AB_77_ElectricityCompanySofiaBulgaria_BEL_BGR_1939-04-04_JUD_01_PO_04_BI.pdf,Electricity Company of Sofia and Bulgaria (Preliminary Objections)
+06_Compagnie_d_electricite_de_Sofia_Opinion_de_Visscher.pdf,even-english,PCIJ_AB_77_ElectricityCompanySofiaBulgaria_BEL_BGR_1939-04-04_JUD_01_PO_05_BI.pdf,Electricity Company of Sofia and Bulgaria (Preliminary Objections)
+07_Compagnie_d_electricite_de_Sofia_Opinion_Erich.pdf,even-english,PCIJ_AB_77_ElectricityCompanySofiaBulgaria_BEL_BGR_1939-04-04_JUD_01_PO_06_BI.pdf,Electricity Company of Sofia and Bulgaria (Preliminary Objections)
+08_Compagnie_d_electricite_de_Sofia_Opinion_Papazoff.pdf,even-english,PCIJ_AB_77_ElectricityCompanySofiaBulgaria_BEL_BGR_1939-04-04_JUD_01_PO_07_BI.pdf,Electricity Company of Sofia and Bulgaria (Preliminary Objections)
+09_Compagnie_d_electricite_de_Sofia_Ordonnance.pdf,even-english,PCIJ_AB_77_ElectricityCompanySofiaBulgaria_BEL_BGR_1939-04-04_ORD_01_TL_00_BI.pdf,Electricity Company of Sofia and Bulgaria (Preliminary Objections)
+10_Compagnie_d_electricite_de_Sofia_Annexe.pdf,even-english,PCIJ_AB_77_ElectricityCompanySofiaBulgaria_BEL_BGR_1939-04-04_ANX_01_NA_NA_BI.pdf,Electricity Company of Sofia and Bulgaria (Preliminary Objections)
+01_Societe_commerciale_de_Belgique_Arret.pdf,odd-english,PCIJ_AB_78_SocieteCommercialeBelgique_BEL_GRC_1939-06-15_JUD_01_ME_00_BI.pdf,Société Commerciale de Belgique
+02_Societe_commerciale_de_Belgique_Opinion_Eysinga.pdf,even-english,PCIJ_AB_78_SocieteCommercialeBelgique_BEL_GRC_1939-06-15_JUD_01_ME_01_BI.pdf,Société Commerciale de Belgique
+03_Societe_commerciale_de_Belgique_Opinion_Hudson.pdf,even-english,PCIJ_AB_78_SocieteCommercialeBelgique_BEL_GRC_1939-06-15_JUD_01_ME_02_BI.pdf,Société Commerciale de Belgique
+04_Societe_commerciale_de_Belgique_Annexe.pdf,even-english,PCIJ_AB_78_SocieteCommercialeBelgique_BEL_GRC_1939-06-15_ANX_01_NA_NA_BI.pdf,Société Commerciale de Belgique
+Compagnie_d_electricite_de_Sofia_ordonnance_19391205.pdf,odd-english,PCIJ_AB_79_ElectricityCompanySofiaBulgaria_BEL_BGR_1939-12-05_ORD_01_IM_00_BI.pdf,Electricity Company of Sofia and Bulgaria (Interim Measures of Protection)
+Compagnie_d_electricite_de_Sofia_ordonnance_19400226.pdf,odd-english,PCIJ_AB_80_ElectricityCompanySofiaBulgaria_BEL_BGR_1940-02-26_ORD_01_DH_00_BI.pdf,Electricity Company of Sofia and Bulgaria (Date of Hearing)
+Designation_du_delegue_ouvrier_neerlandais_a_la_Conference_internationale_du_travail_Avis_consultatif_1.pdf,even-english,PCIJ_B_01_WorkersDelegateILO_LNC_NA_1922-05-22_APP_01_NA_NA_BI.pdf,Designation of the Workers’ Delegate for the Netherlands at the Third Session of the International Labour Conference
+Designation_du_delegue_ouvrier_neerlandais_a_la_Conference_internationale_du_travail_Avis_consultatif.pdf,even-english,PCIJ_B_01_WorkersDelegateILO_LNC_NA_1922-07-31_ADV_01_NA_00_BI.pdf,Designation of the Workers’ Delegate for the Netherlands at the Third Session of the International Labour Conference
+Competence_OIT_Agriculture_Avis_consultatif.pdf,even-english,PCIJ_B_02_ILOCompetencePersonsAgriculture_LNC_NA_1922-08-12_ADV_01_NA_00_BI.pdf,Competence of the ILO in regard to International Regulation of the Conditions of the Labour of Persons Employed in Agriculture
+Competence_OIT_Agriculture_requete.pdf,even-english,PCIJ_B_02_ILOCompetencePersonsAgriculture_LNC_NA_1922-05-22_APP_01_NA_NA_BI.pdf,Competence of the ILO in regard to International Regulation of the Conditions of the Labour of Persons Employed in Agriculture
+Competence_OIT_Agriculture_Avis_consultatif_1.pdf,even-english,PCIJ_B_03_ILOCompetenceMethodsAgriculture_LNC_NA_1922-08-12_ADV_01_NA_00_BI.pdf,Competence of the ILO to Examine Proposal for the Organization and Development of the Methods of Agricultural Production
+Competence_OIT_Agriculture_Avis_requete.pdf,even-english,PCIJ_B_03_ILOCompetenceMethodsAgriculture_LNC_NA_1922-07-18_APP_01_NA_NA_BI.pdf,Competence of the ILO to Examine Proposal for the Organization and Development of the Methods of Agricultural Production
+Decrets_de_nationalite_promulgues_en_Tunisie_et_au_Maroc_Avis_consultatif.pdf,even-english,PCIJ_B_04_NationalityDecrees_LNC_NA_1923-02-07_ADV_01_NA_00_BI.pdf,Nationality Decrees Issued in Tunis and Morocco
+Decrets_de_nationalite_promulgues_en_Tunisie_et_au_Maroc_Avis_consultatif_1.pdf,even-english,PCIJ_B_04_NationalityDecrees_LNC_NA_1922-11-06_APP_01_NA_NA_BI.pdf,Nationality Decrees Issued in Tunis and Morocco
+Statut_de_la_Carelie_orientale_Avis_consultatif_1.pdf,even-english,PCIJ_B_05_EasternCarelia_LNC_NA_1923-04-27_APP_01_NA_NA_BI.pdf,Status of Eastern Carelia
+Statut_de_la_Carelie_orientale_Avis_consultatif.pdf,even-english,PCIJ_B_05_EasternCarelia_LNC_NA_1923-07-23_ADV_01_NA_00_BI.pdf,Status of Eastern Carelia
+Colons_allemands_en_Pologne_Avis_consultatif.pdf,odd-english,PCIJ_B_06_GermanSettlers_LNC_NA_1923-09-10_ADV_01_NA_00_BI.pdf,Settlers of German Origin in the Territory Ceded by Germany to Poland
+01_Acquisition_de_la_nationalite_polonaise_Avis_consultatif.pdf,odd-english,PCIJ_B_07_AcquisitionPolishNationality_LNC_NA_1923-09-15_ADV_01_NA_00_BI.pdf,Acquisition of Polish Nationality
+02_Acquisition_de_la_nationalite_polonaise_Observations_Finlay.pdf,even-english,PCIJ_B_07_AcquisitionPolishNationality_LNC_NA_1923-09-15_ADV_01_NA_01_BI.pdf,Acquisition of Polish Nationality
+Jaworzina_Avis_consultatif.pdf,odd-english,PCIJ_B_08_Jaworzina_LNC_NA_1923-12-06_ADV_01_NA_00_BI.pdf,Jaworzina (Polish-Czechoslovakian Frontier)
+Monastere_de_Saint-Naoum_Avis_consultatif.pdf,even-english,PCIJ_B_09_MonasterySaintNaoum_LNC_NA_1924-09-04_ADV_01_NA_00_BI.pdf,Monastery of Saint-Naoum (Albanian Frontier)
+01_Echange_des_populations_grecques_et_turques_Avis_consultatif.pdf,odd-english,PCIJ_B_10_ExchangeGreekTurkishPopulations_LNC_NA_1925-02-21_ADV_01_NA_00_BI.pdf,"Exchange of Greek and Turkish Populations (Lausanne Convention VI, January 30th, 1923, Article 2)"
+02_Echange_des_populations_grecques_et_turques_Annexe.pdf,even-english,PCIJ_B_10_ExchangeGreekTurkishPopulations_LNC_NA_1925-02-21_ANX_01_NA_NA_BI.pdf,"Exchange of Greek and Turkish Populations (Lausanne Convention VI, January 30th, 1923, Article 2)"
+01_Service_postal_polonais_a_Danzig_Avis_consultatif.pdf,odd-english,PCIJ_B_11_PostalServiceDanzig_LNC_NA_1925-05-16_ADV_01_NA_00_BI.pdf,Polish Postal Service in Danzig
+02_Service_postal_polonais_a_Danzig_Annexe.pdf,even-english,PCIJ_B_11_PostalServiceDanzig_LNC_NA_1925-05-16_ANX_01_NA_NA_BI.pdf,Polish Postal Service in Danzig
+01_Article_3_du_traite_de_Lausanne_Avis_consultatif.pdf,odd-english,PCIJ_B_12_TreatyLausanne_LNC_NA_1925-11-21_ADV_01_NA_00_BI.pdf,Interpretation of Article 3‚ Paragraph 2‚ of the Treaty of Lausanne (Frontier between Turkey and Iraq)
+02_Article_3_du_traite_de_Lausanne_Annexe.pdf,even-english,PCIJ_B_12_TreatyLausanne_LNC_NA_1925-11-21_ANX_01_NA_NA_BI.pdf,Interpretation of Article 3‚ Paragraph 2‚ of the Treaty of Lausanne (Frontier between Turkey and Iraq)
+01_Competence_OIT_travail_personnel_du_patron_Avis_consultatif.pdf,odd-english,PCIJ_B_13_ILOCompetenceEmployer_LNC_NA_1926-07-23_ADV_01_NA_00_BI.pdf,"Competence of the ILO to Regulate, Incidentally, the Personal Work of the Employer"
+02_Competence_OIT_travail_personnel_du_patron_Annexe.pdf,even-english,PCIJ_B_13_ILOCompetenceEmployer_LNC_NA_1926-07-23_ANX_01_NA_NA_BI.pdf,"Competence of the ILO to Regulate, Incidentally, the Personal Work of the Employer"
+01_Commission_europeenne_du_Danube_Avis_consultatif.pdf,odd-english,PCIJ_B_14_DanubeCommission_LNC_NA_1927-12-08_ADV_01_NA_00_BI.pdf,Jurisdiction of the European Commission of the Danube between Galatz and Braila
+02_Commission_europeenne_du_Danube_Opinion_Nyholm.pdf,even-english,PCIJ_B_14_DanubeCommission_LNC_NA_1927-12-08_ADV_01_NA_01_BI.pdf,Jurisdiction of the European Commission of the Danube between Galatz and Braila
+03_Commission_europeenne_du_Danube_Observations_Moore.pdf,even-english,PCIJ_B_14_DanubeCommission_LNC_NA_1927-12-08_ADV_01_NA_02_BI.pdf,Jurisdiction of the European Commission of the Danube between Galatz and Braila
+04_Commission_europeenne_du_Danube_Opinion_Negulesco.pdf,even-english,PCIJ_B_14_DanubeCommission_LNC_NA_1927-12-08_ADV_01_NA_03_BI.pdf,Jurisdiction of the European Commission of the Danube between Galatz and Braila
+05_Commission_europeenne_du_Danube_Annexe.pdf,even-english,PCIJ_B_14_DanubeCommission_LNC_NA_1927-12-08_ANX_01_NA_NA_BI.pdf,Jurisdiction of the European Commission of the Danube between Galatz and Braila
+01_Competence_des_tribunaux_de_Danzig_Avis_consultatif.pdf,odd-english,PCIJ_B_15_DanzigCourts_LNC_NA_1928-03-03_ADV_01_NA_00_BI.pdf,"Jurisdiction of the Courts of Danzig (Pecuniary Claims of Danzig Railway Officials who have passed into the Polish Service, against the Polish Railways Administration)"
+02_Competence_des_tribunaux_de_Danzig_Annexe_1.pdf,even-english,PCIJ_B_15_DanzigCourts_LNC_NA_1928-03-03_ANX_01_NA_NA_BI.pdf,Jurisdiction of the Courts of Danzig
+03_Competence_des_tribunaux_de_Danzig_Annexe_2.pdf,customsplit,PCIJ_B_15_DanzigCourts_LNC_NA_1928-03-03_ANX_02_NA_NA_BI.pdf,Jurisdiction of the Courts of Danzig
+04_Competence_des_tribunaux_de_Danzig_Annexe_3.pdf,even-english,PCIJ_B_15_DanzigCourts_LNC_NA_1928-03-03_ANX_03_NA_NA_BI.pdf,Jurisdiction of the Courts of Danzig
+01_Interpretation_de_l_Accord_greco-turc_Avis_consultatif.pdf,odd-english,PCIJ_B_16_GrecoTurkishAgreement_LNC_NA_1928-08-28_ADV_01_NA_00_BI.pdf,"Interpretation of the Greco-Turkish Agreement of December 1st, 1926 (Final Protocol‚ Article IV)"
+02_Interpretation_de_l_Accord_greco-turc_Annexe.pdf,even-english,PCIJ_B_16_GrecoTurkishAgreement_LNC_NA_1928-08-28_ANX_01_NA_NA_BI.pdf,"Interpretation of the Greco-Turkish Agreement of December 1st, 1926 (Final Protocol‚ Article IV)"
+01_Communautes_greco-bulgares_Avis_consultatif.pdf,odd-english,PCIJ_B_17_GrecoBulgarianCommunities_LNC_NA_1930-07-31_ADV_01_NA_00_BI.pdf,Greco-Bulgarian Communities
+02_Communautes_greco-bulgares_Annexe_1.pdf,even-english,PCIJ_B_17_GrecoBulgarianCommunities_LNC_NA_1930-07-31_ANX_01_NA_NA_BI.pdf,Greco-Bulgarian Communities
+03_Communautes_greco-bulgares_Annexe_2.pdf,even-english,PCIJ_B_17_GrecoBulgarianCommunities_LNC_NA_1930-07-31_ANX_02_NA_NA_BI.pdf,Greco-Bulgarian Communities
+01_Ville_libre_de_Danzig_et_OIT_Avis_consultatif.pdf,odd-english,PCIJ_B_18_DanzigILO_LNC_NA_1930-08-26_ADV_01_NA_00_BI.pdf,Free City of Danzig and International Labour Organization
+02_Ville_libre_de_Danzig_et_OIT_Opinion_Anzilotti.pdf,even-english,PCIJ_B_18_DanzigILO_LNC_NA_1930-08-26_ADV_01_NA_01_BI.pdf,Free City of Danzig and International Labour Organization
+03_Ville_libre_de_Danzig_et_OIT_Opinion_Huber.pdf,even-english,PCIJ_B_18_DanzigILO_LNC_NA_1930-08-26_ADV_01_NA_02_BI.pdf,Free City of Danzig and International Labour Organization
