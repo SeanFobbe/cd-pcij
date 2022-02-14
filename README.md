@@ -41,7 +41,7 @@ All data sets created with this script will always be hosted permanently open ac
 
 
 
-#+
+
 ## Compilation
 
 All comments are in **roxygen2-style** markup for use with *spin()* or *render()* from the **rmarkdown** package. Compiling the scripts will produce the full data set, high-quality PDF reports and save all diagrams to disk. 
