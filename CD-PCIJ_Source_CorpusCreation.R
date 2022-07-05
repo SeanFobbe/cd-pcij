@@ -138,6 +138,7 @@ library(quanteda.textplots)  # Specialized Plots for Text Statistics
 library(textcat)       # Classify Text Language
 library(data.table)    # Advanced Data Handling
 library(doParallel)    # Parallelization
+library(zip)           # Enhanced ZIP handling
 
 
 #'## Load Additional Functions
