@@ -242,7 +242,7 @@ latexdefs <- c("%===========================\n% Definitions\n%==================
                "\n% NOTE: This file was created automatically during the compilation process.\n",
                "\n%-----Version-----",
                paste0("\\newcommand{\\version}{",
-                      datestamp,
+                      version,
                       "}"),
                "\n%-----Titles-----",
                paste0("\\newcommand{\\datatitle}{",
