@@ -962,30 +962,11 @@ kable(testresult,
 
 
 
+#+ results = "asis"
+cat(readLines("CHANGELOG.md"),
+    sep = "\n")
 
 
-#+
-#'# Changelog
-#' The Changelog documents changes made to the data set.
-#' \vspace{1cm}
-
-#'\ra{1.5}
-#'\begin{centering}
-#'\begin{longtable}{p{3cm}p{11cm}}
-
-#'\toprule
-
-#'Version & Notes\\
-
-#'\midrule
-
-
-#'1.0.0 & Initial Release\\
-
-#'\bottomrule
-
-#'\end{longtable}
-#'\end{centering}
 
 
 
