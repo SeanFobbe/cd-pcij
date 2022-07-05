@@ -4235,7 +4235,8 @@ zip(paste(datashort,
 files.source <- c(list.files(pattern = "Source"),
                   "data",
                   "functions",
-                  "buttons")
+                  "buttons",
+                  "tex")
 
 
 files.source <- grep("spin",
@@ -4248,7 +4249,8 @@ zip(paste(datashort,
           version.dash,
           "Source_Files.zip",
           sep = "_"),
-    files.source)
+    files.source,
+    mode = "mirror")
 
 
 
