@@ -1,4 +1,3 @@
-
 # Changelog
 
 The Changelog documents changes made to the data set. The data set is versioned in the format MAJOR.MINOR.PATCH, e.g. 1.0.0.
