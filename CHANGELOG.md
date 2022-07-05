@@ -8,6 +8,7 @@ The Changelog documents changes made to the data set. The data set is versioned 
 
 - Fixed zipping of source code; tex/ is now included
 - README and CHANGELOG are now external markdown files that are automatically integrated into the Compilation Report and Codebook; allows for easier modification and viewing on GitHub
+- Version number on cover of Codebook and Compilation Report is now the correct semantic versioning instead of the datestamp
 
 ## Version 1.0.0 
 
