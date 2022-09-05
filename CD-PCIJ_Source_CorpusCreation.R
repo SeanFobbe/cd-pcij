@@ -232,7 +232,7 @@ outputdir <- paste0(getwd(),
 
 #'## Clean up files from previous runs
 
-delete <- list.files(pattern = "\\.pdf|\\.zip|\\.pdf")
+delete <- list.files(pattern = "\\.pdf|\\.zip|\\.pdf|\\.csv")
 unlink(delete)
 
 for (dir in dirset){
