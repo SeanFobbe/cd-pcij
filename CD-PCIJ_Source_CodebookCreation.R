@@ -12,7 +12,7 @@
 #'    number_sections: true
 #'    pandoc_args: --listings
 #'    includes:
-#'      in_header: tex/CD-PCIJ_Source_TEX_Preamble_EN.tex
+#'      in_header: temp/CD-PCIJ_Source_TEX_Preamble_EN.tex
 #'      before_body: [tex/CD-PCIJ_Source_TEX_Author.tex,tex/CD-PCIJ_Source_TEX_Definitions.tex,tex/CD-PCIJ_Source_TEX_CodebookTitle.tex]
 #'bibliography: packages.bib
 #'nocite: '@*'
