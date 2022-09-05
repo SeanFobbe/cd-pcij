@@ -20,11 +20,11 @@ version.dash = "1-1-0"
 # Digital Object Identifier (DOI)
 
 doi.data.concept = "10.5281/zenodo.3840479" # do not change
-doi.data.version = "???"
+doi.data.version = "10.5281/zenodo.7051934"
 
 
 doi.software.concept = "10.5281/zenodo.4136955" # do not change
-doi.software.version = "???"
+doi.software.version = "10.5281/zenodo.7051937"
 
 
 
