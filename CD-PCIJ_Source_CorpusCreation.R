@@ -1,6 +1,6 @@
 #'---
 #'title: "Compilation Report | Corpus of Decisions: Permanent Court of International Justice (CD-PCIJ)"
-#'author: Anonymized for Peer Review
+#'author: Seán Fobbe
 #'geometry: margin=3cm
 #'papersize: a4
 #'fontsize: 11pt
