@@ -336,10 +336,19 @@ knitr::write_bib(c(.packages()),
 #' The use of **fork clusters** is significantly more efficient than PSOCK clusters, although it restricts use of this script to Linux systems.
 
 #+
-#'### Detect Number of Logical Cores
-#' This will detect the maximum number of threads (= logical cores) available on the system.
+#'## Detect Number of Logical Cores
+#' This will detect the maximum number of threads (= logical cores) available on the system or set them according to the config file.
 
-fullCores <- detectCores()
+if(config$cores$max == TRUE){
+
+    fullCores <- detectCores()
+
+}else{
+
+    fullCores <- config$cores$number
+    
+}
+
 print(fullCores)
 
 #'### Set Number of OCR Control Cores
