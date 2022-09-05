@@ -49,6 +49,7 @@ print(begin.script)
 #+
 #'## Load Packages
 
+library(RcppTOML)      # Read and write TOML files
 library(httr)          # HTTP Tools
 library(rvest)         # Web Scraping
 library(mgsub)         # Vectorized Gsub
