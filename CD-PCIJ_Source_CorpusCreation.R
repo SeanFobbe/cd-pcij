@@ -96,51 +96,6 @@ source("functions/f.token.processor.R")
 
 
 
-#'# Manage Directories
-
-#+
-#'## Define Set of Data Directories
-
-dirset <- c("MULT_PDF_ORIGINAL_FULL",
-             "EN_PDF_ENHANCED_FULL",
-             "FR_PDF_ENHANCED_FULL",
-             "EN_PDF_ORIGINALSPLIT_FULL",
-             "FR_PDF_ORIGINALSPLIT_FULL",
-             "EN_PDF_ENHANCED_MajorityOpinions",
-             "FR_PDF_ENHANCED_MajorityOpinions",
-             "EN_TXT_TESSERACT_FULL",
-             "FR_TXT_TESSERACT_FULL",
-             "EN_TXT_EXTRACTED_FULL",
-             "FR_TXT_EXTRACTED_FULL")
-
-#'## Output Directory
-#' The directory name must include a terminating slash!
-outputdir <- paste0(getwd(),
-                    "/ANALYSIS/") 
-
-
-#'## Clean up files from previous runs
-
-for (dir in dirset){
-    unlink(dir, recursive = TRUE)
-}
-
-unlink(outputdir, recursive = TRUE)
-unlink("temp", recursive = TRUE)
-
-
-
-#'## Create directories
-
-for (dir in dirset){
-    dir.create(dir)
-}
-
-
-dir.create("temp")
-dir.create(outputdir)
-
-
 
 
 
@@ -252,9 +207,61 @@ knitr::opts_chunk$set(fig.path = outputdir,
 
 
 
+#'# Manage Directories
+
+#+
+#'## Define Set of Data Directories
+
+dirset <- c("MULT_PDF_ORIGINAL_FULL",
+             "EN_PDF_ENHANCED_FULL",
+             "FR_PDF_ENHANCED_FULL",
+             "EN_PDF_ORIGINALSPLIT_FULL",
+             "FR_PDF_ORIGINALSPLIT_FULL",
+             "EN_PDF_ENHANCED_MajorityOpinions",
+             "FR_PDF_ENHANCED_MajorityOpinions",
+             "EN_TXT_TESSERACT_FULL",
+             "FR_TXT_TESSERACT_FULL",
+             "EN_TXT_EXTRACTED_FULL",
+             "FR_TXT_EXTRACTED_FULL")
+
+#'## Output Directory
+#' The directory name must include a terminating slash!
+outputdir <- paste0(getwd(),
+                    "/ANALYSIS/") 
 
 
-#'## LaTeX Configuration
+#'## Clean up files from previous runs
+
+for (dir in dirset){
+    unlink(dir, recursive = TRUE)
+}
+
+unlink(outputdir, recursive = TRUE)
+unlink("temp", recursive = TRUE)
+
+
+
+#'## Create directories
+
+for (dir in dirset){
+    dir.create(dir)
+}
+
+
+dir.create("temp")
+dir.create(outputdir)
+
+
+
+
+
+
+
+
+
+
+
+#'# LaTeX Configuration
 #' These LaTeX definitions are used for the cover and inside cover.
 
 #+
@@ -350,6 +357,8 @@ if(config$cores$max == TRUE){
 }
 
 print(fullCores)
+
+
 
 #'### Set Number of OCR Control Cores
 #' **Note:** Reduced number of control cores for OCR, as Tesseract calls up to four threads by itself.
