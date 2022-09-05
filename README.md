@@ -1,4 +1,4 @@
-# Corpus of Decisions: Permanent Court of International Justice (CD-PCIJ)
+# README: Corpus of Decisions: Permanent Court of International Justice (CD-PCIJ)
 
 ## Overview
 
