@@ -8,6 +8,7 @@ Changes to the data set are documented here. The versioning scheme follows seman
 - Changelog is now an external markdown file
 - Display of version number on Codebook and Compilation Report title pages fixed; now correctly display semantic versioning
 - The ZIP archive of source files now includes the TEX files
+- Config file converted to TOML format
 
 
 
