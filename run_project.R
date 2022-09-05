@@ -24,7 +24,7 @@ rmarkdown::render(input = "CD-PCIJ_Source_CorpusCreation.R",
 #'# Codebook
 #' To compile the Codebook, after you have run the Corpus Creation script, use the command below from within an R session:
 
-                                        #+ eval = FALSE
+#+ eval = FALSE
 
 rmarkdown::render(input = "CD-PCIJ_Source_CodebookCreation.R",
                   output_file = paste0(config$project$shortname,
