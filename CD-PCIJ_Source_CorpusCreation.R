@@ -237,7 +237,7 @@ dirset <- c("MULT_PDF_ORIGINAL_FULL",
 
 #'## Clean up files from previous runs
 
-delete <- list.files(pattern = "\\.pdf|\\.zip|\\.pdf|\\.csv")
+delete <- list.files(pattern = "\\.pdf|\\.zip|\\.pdf|\\.csv|\\.tex")
 unlink(delete)
 
 for (dir in dirset){
