@@ -1,0 +1,59 @@
+# Project
+
+project.fullname = "Corpus of Decisions: Permanent Court of International Justice"
+project.shortname = "CD-PCIJ"
+project.author = "Seán Fobbe"
+
+
+# License
+
+license.data = "Creative Commons Zero 1.0 Universal"
+license.code = "MIT-0"
+
+
+# Version
+
+version.semantic = "1.1.0"
+version.dash = "1-1-0"
+
+
+# Digital Object Identifier (DOI)
+
+doi.data.concept = "10.5281/zenodo.3840479" # do not change
+doi.data.version = "???"
+
+
+doi.software.concept = "10.5281/zenodo.4136955" # do not change
+doi.software.version = "???"
+
+
+
+# Parallelization
+
+cores.max = true # Whether to use maximum number of cores
+cores.number = 8 # Only if cores.max = false: number of cores to use.
+
+
+# OCR
+ocr.dpi = 300
+
+
+# Download
+download.timeout = 600		# Download Timeout
+
+
+
+# Knitr
+
+fig.format = [ "pdf", "png" ] 	# Figures: Output Format
+fig.dpi = 300     	 	# Figures: Resolution
+fig.align = "center"    	# Figures: Alignment in Reports
+
+
+
+# Frequency Tables
+
+freqvar.ignore = ["date",
+		  "doc_id",
+		  "text"]
+
