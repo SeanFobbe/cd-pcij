@@ -963,7 +963,7 @@ kable(testresult,
 
 
 
-\newpage
+#' \newpage
 
 
 
