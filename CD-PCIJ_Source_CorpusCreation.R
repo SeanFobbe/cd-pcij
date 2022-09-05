@@ -12,7 +12,7 @@
 #'    number_sections: true
 #'    pandoc_args: --listings
 #'    includes:
-#'      in_header: tex/CD-PCIJ_Source_TEX_Preamble_EN.tex
+#'      in_header: temp/CD-PCIJ_Source_TEX_Preamble_EN.tex
 #'      before_body: [tex/CD-PCIJ_Source_TEX_Author.tex,tex/CD-PCIJ_Source_TEX_Definitions.tex,tex/CD-PCIJ_Source_TEX_CompilationTitle.tex]
 #'bibliography: packages.bib
 #'nocite: '@*' 
@@ -92,6 +92,58 @@ source("functions/f.special.replace.R")
 source("functions/f.token.processor.R")
 
 
+
+
+
+
+#'# Manage Directories
+
+#+
+#'## Define Set of Data Directories
+
+dirset <- c("MULT_PDF_ORIGINAL_FULL",
+             "EN_PDF_ENHANCED_FULL",
+             "FR_PDF_ENHANCED_FULL",
+             "EN_PDF_ORIGINALSPLIT_FULL",
+             "FR_PDF_ORIGINALSPLIT_FULL",
+             "EN_PDF_ENHANCED_MajorityOpinions",
+             "FR_PDF_ENHANCED_MajorityOpinions",
+             "EN_TXT_TESSERACT_FULL",
+             "FR_TXT_TESSERACT_FULL",
+             "EN_TXT_EXTRACTED_FULL",
+             "FR_TXT_EXTRACTED_FULL")
+
+#'## Output Directory
+#' The directory name must include a terminating slash!
+outputdir <- paste0(getwd(),
+                    "/ANALYSIS/") 
+
+
+#'## Clean up files from previous runs
+
+for (dir in dirset){
+    unlink(dir, recursive = TRUE)
+}
+
+unlink(outputdir, recursive = TRUE)
+unlink("temp", recursive = TRUE)
+
+
+
+#'## Create directories
+
+for (dir in dirset){
+    dir.create(dir)
+}
+
+
+dir.create("temp")
+dir.create(outputdir)
+
+
+
+
+
 #+
 #'# Parameters
 
@@ -143,10 +195,6 @@ license <- config$license$data
 print(license)
 
 
-#'## Output Directory
-#' The directory name must include a terminating slash!
-outputdir <- paste0(getwd(),
-                    "/ANALYSIS/") 
 
 
 #'## DPI for OCR
@@ -265,7 +313,7 @@ latexdefs <- c("%===========================\n% Definitions\n%==================
 #'### Write LaTeX Definitions
 
 writeLines(latexdefs,
-           "tex/CD-PCIJ_Source_TEX_Definitions.tex")
+           "temp/CD-PCIJ_Source_TEX_Definitions.tex")
 
 
 
@@ -306,37 +354,6 @@ setDTthreads(threads = fullCores)
 quanteda_options(threads = fullCores)    
 
 
-
-
-
-#'# Create Directories
-
-#+
-#'## Define Set of Data Directories
-
-dirset <- c("MULT_PDF_ORIGINAL_FULL",
-             "EN_PDF_ENHANCED_FULL",
-             "FR_PDF_ENHANCED_FULL",
-             "EN_PDF_ORIGINALSPLIT_FULL",
-             "FR_PDF_ORIGINALSPLIT_FULL",
-             "EN_PDF_ENHANCED_MajorityOpinions",
-             "FR_PDF_ENHANCED_MajorityOpinions",
-             "EN_TXT_TESSERACT_FULL",
-             "FR_TXT_TESSERACT_FULL",
-             "EN_TXT_EXTRACTED_FULL",
-             "FR_TXT_EXTRACTED_FULL")
-
-
-#'## Create Data Directories
-
-for (dir in dirset){
-    dir.create(dir)
-    }
-
-
-
-#'## Create Output Directory
-dir.create(outputdir)
 
 
 
