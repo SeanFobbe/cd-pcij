@@ -102,6 +102,15 @@ source("functions/f.token.processor.R")
 #+
 #'# Parameters
 
+
+#+
+#'## Output Directory
+#' The directory name must include a terminating slash!
+outputdir <- paste0(getwd(),
+                    "/ANALYSIS/") 
+
+
+
 #+
 #'## Read Configuration File
 #' All configuration options are set in a separate configuration file that is read here. They should only be changed in that file!
@@ -224,10 +233,6 @@ dirset <- c("MULT_PDF_ORIGINAL_FULL",
              "EN_TXT_EXTRACTED_FULL",
              "FR_TXT_EXTRACTED_FULL")
 
-#'## Output Directory
-#' The directory name must include a terminating slash!
-outputdir <- paste0(getwd(),
-                    "/ANALYSIS/") 
 
 
 #'## Clean up files from previous runs
