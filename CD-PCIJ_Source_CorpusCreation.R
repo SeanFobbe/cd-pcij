@@ -21,6 +21,7 @@
 
 #'\newpage
 
+#+ results = "asis"
 cat(readLines("README.md"),
     sep = "\n")
 
