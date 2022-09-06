@@ -12,6 +12,7 @@ Changes to the data set are documented here. The versioning scheme follows seman
 - Config file converted to TOML format
 - All R packages are version-controlled with {renv}
 - Data set creation process cleans up all files from previous runs before a new data set is created
+- Remove redundant color from violin plots
 
 
 ## Version 1.0.0
