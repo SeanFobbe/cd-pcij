@@ -969,7 +969,7 @@ kable(testresult,
 #' \newpage
 
 
-
+#+ results = "asis"
 cat(readLines("CHANGELOG.md"),
     sep = "\n")
 
