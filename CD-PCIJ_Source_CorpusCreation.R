@@ -329,7 +329,7 @@ latexdefs <- c("%===========================\n% Definitions\n%==================
 
 
 
-#'\newpage
+
 #'### Write LaTeX Definitions
 
 writeLines(latexdefs,
