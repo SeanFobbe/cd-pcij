@@ -648,6 +648,7 @@ kable(stats.ling.fr,
 
 
 
+#'\newpage
 #+
 #'## Most Frequent Tokens (English)
 #'\label{toptokens-en}
